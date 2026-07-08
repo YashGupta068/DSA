@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/YashGupta068/LeetCode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/YashGupta068/LeetCode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/YashGupta068/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
