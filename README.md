@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +77,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/YashGupta068/LeetCode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/YashGupta068/LeetCode/tree/master/0507-perfect-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 <!---LeetCode Topics End-->
