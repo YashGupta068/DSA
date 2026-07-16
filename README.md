@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashGupta068/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashGupta068/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/YashGupta068/LeetCode/tree/master/0283-move-zeroes) |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/YashGupta068/LeetCode/tree/master/0507-perfect-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3908-valid-digit-number](https://github.com/YashGupta068/LeetCode/tree/master/3908-valid-digit-number) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
