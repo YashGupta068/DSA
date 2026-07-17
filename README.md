@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/YashGupta068/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/YashGupta068/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/YashGupta068/LeetCode/tree/master/0283-move-zeroes) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
