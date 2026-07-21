@@ -1,11 +1,21 @@
 class Solution {
     public int findMin(int[] arr) {
-        int min = arr[0];
+        int min = Integer.MAX_VALUE;
+        
+        int low = 0;
+        int high = arr.length-1;
 
-        for(int i=0;i<arr.length;i++){
-            if(min>arr[i]){
-                min = arr[i];
+        while(low<=high){
+            int mid = low + (high-low)/2;
+
+            if(arr[low] <= arr[mid]){
+                min = Math.min(min,arr[low]);
+                low = mid + 1;
+            }else{
+                min = Math.min(min,arr[mid]);
+                high = mid - 1;
             }
+
         }
 
         return min;
