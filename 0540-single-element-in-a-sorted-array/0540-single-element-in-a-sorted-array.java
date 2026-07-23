@@ -20,13 +20,13 @@ class Solution {
             }
 
             if(mid % 2 == 0){
-                if(arr[mid] != arr[mid+1]){
+                if(arr[mid] == arr[mid-1]){
                     high = mid - 1;
                 }else{
                     low = mid + 1;
                 }
             }else{
-                if(arr[mid]!=arr[mid+1]){
+                if(arr[mid]==arr[mid-1]){
                     low = mid + 1;
                 }else{
                     high = mid - 1;
