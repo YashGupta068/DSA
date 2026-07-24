@@ -10,10 +10,10 @@ class Solution {
 
             if(arr[low] <= arr[mid]){
                 min = Math.min(arr[low],min);
-                high = mid - 1;
+                low = mid + 1;
             }else{
                 min = Math.min(arr[mid],min);
-                low = mid + 1;
+                high = mid - 1;
             }
         }
 
