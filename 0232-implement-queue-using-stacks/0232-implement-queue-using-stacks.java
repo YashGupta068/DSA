@@ -26,16 +26,16 @@ class MyQueue {
     
     public int peek() {
         if (s1.isEmpty() && s2.isEmpty()) {
-        return -1; // queue empty
-    }
-
-    if (s2.isEmpty()) {
-        while (!s1.isEmpty()) {
-            s2.push(s1.pop());
+            return -1; // queue empty
         }
-    }
 
-    return s2.peek();
+        if (s2.isEmpty()) {
+            while (!s1.isEmpty()) {
+                s2.push(s1.pop());
+            }
+        }
+
+        return s2.peek();
     }
     
     public boolean empty() {
