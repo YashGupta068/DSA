@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/YashGupta068/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
+| [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
 ## Simulation
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/YashGupta068/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/YashGupta068/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashGupta068/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
