@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/YashGupta068/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashGupta068/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/YashGupta068/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/YashGupta068/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/YashGupta068/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/YashGupta068/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/YashGupta068/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashGupta068/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/YashGupta068/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/YashGupta068/LeetCode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/YashGupta068/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/YashGupta068/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/YashGupta068/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta068/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YashGupta068/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 ## Divide and Conquer
@@ -200,4 +204,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/YashGupta068/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
