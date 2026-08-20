@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/YashGupta068/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/YashGupta068/LeetCode/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashGupta068/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashGupta068/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashGupta068/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/YashGupta068/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
 | [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashGupta068/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Simulation
 |  |
 | ------- |
