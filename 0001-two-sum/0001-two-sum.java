@@ -3,10 +3,10 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
 
         for(int i=0;i<arr.length;i++){
-            int need = target - arr[i];
+            int num = target - arr[i];
 
-            if(map.containsKey(need)){
-                return new int[]{map.get(need),i};
+            if(map.containsKey(num)){
+                return new int[]{map.get(num),i};
             }
 
             map.put(arr[i],i);
