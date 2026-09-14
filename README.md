@@ -56,6 +56,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashGupta068/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashGupta068/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/YashGupta068/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1834-single-threaded-cpu](https://github.com/YashGupta068/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0414-third-maximum-number](https://github.com/YashGupta068/LeetCode/tree/master/0414-third-maximum-number) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1834-single-threaded-cpu](https://github.com/YashGupta068/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Greedy
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashGupta068/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1834-single-threaded-cpu](https://github.com/YashGupta068/LeetCode/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
