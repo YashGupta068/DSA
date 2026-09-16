@@ -47,6 +47,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0485-max-consecutive-ones](https://github.com/YashGupta068/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta068/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/YashGupta068/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/YashGupta068/LeetCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashGupta068/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -224,4 +225,5 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashGupta068/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/YashGupta068/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
