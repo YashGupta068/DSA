@@ -102,6 +102,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | ------- |
 | [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
 | [0881-boats-to-save-people](https://github.com/YashGupta068/LeetCode/tree/master/0881-boats-to-save-people) |
+| [2864-maximum-odd-binary-number](https://github.com/YashGupta068/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | ------- |
 | [0189-rotate-array](https://github.com/YashGupta068/LeetCode/tree/master/0189-rotate-array) |
 | [0507-perfect-number](https://github.com/YashGupta068/LeetCode/tree/master/0507-perfect-number) |
+| [2864-maximum-odd-binary-number](https://github.com/YashGupta068/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3908-valid-digit-number](https://github.com/YashGupta068/LeetCode/tree/master/3908-valid-digit-number) |
 ## String
@@ -170,6 +172,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0551-student-attendance-record-i](https://github.com/YashGupta068/LeetCode/tree/master/0551-student-attendance-record-i) |
 | [0649-dota2-senate](https://github.com/YashGupta068/LeetCode/tree/master/0649-dota2-senate) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/YashGupta068/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2864-maximum-odd-binary-number](https://github.com/YashGupta068/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 ## Simulation
 |  |
 | ------- |
