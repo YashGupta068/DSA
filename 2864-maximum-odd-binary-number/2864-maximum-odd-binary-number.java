@@ -1,39 +1,32 @@
 class Solution {
     public String maximumOddBinaryNumber(String s) {
-        String res = "";
-        int freq[] = new int[2];
+        int n = s.length();
 
-        for(int i=0;i<s.length();i++){
-            char ch = s.charAt(i);
+        char arr[] = s.toCharArray();
 
-            if(ch == '0'){
-                freq[0]++;
-            }else{
-                freq[1]++;
+        int l = 0;
+        int r = n - 1;
+
+        while(l<=r){
+            if(arr[l] == '1'){
+                l++;
+            }
+
+            if(arr[r] == '0'){
+                r--;
+            }
+
+            if(l < r && arr[l] == '0' && arr[r] == '1'){  
+                arr[l] = '1';
+                arr[r] = '0';
             }
         }
 
-        if(freq[1] == 1){
-            for(int i=0;i<freq[0];i++){
-                res+="0";
-            }
-            res+="1";
+        arr[r] = '0';
+        arr[n-1] = '1';
+        
 
-            return res;
-        }
-
-        int ones = freq[1]--;
-
-        for(int i=0;i<freq[1];i++){
-            res+="1";
-        }
-        for(int i=0;i<freq[0];i++){
-            res+="0";
-        }
-
-        res+="1";
-
-        return res;
+        return new String(arr);
     }
 }
 
