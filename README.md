@@ -62,6 +62,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [1834-single-threaded-cpu](https://github.com/YashGupta068/LeetCode/tree/master/1834-single-threaded-cpu) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/YashGupta068/LeetCode/tree/master/2540-minimum-common-value) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashGupta068/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -83,6 +84,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0977-squares-of-a-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2540-minimum-common-value](https://github.com/YashGupta068/LeetCode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0229-majority-element-ii](https://github.com/YashGupta068/LeetCode/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/YashGupta068/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/YashGupta068/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2540-minimum-common-value](https://github.com/YashGupta068/LeetCode/tree/master/2540-minimum-common-value) |
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0852-peak-index-in-a-mountain-array](https://github.com/YashGupta068/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/YashGupta068/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/YashGupta068/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/YashGupta068/LeetCode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
 | ------- |
