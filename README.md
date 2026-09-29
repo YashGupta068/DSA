@@ -242,4 +242,12 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0003-longest-substring-without-repeating-characters](https://github.com/YashGupta068/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/YashGupta068/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/YashGupta068/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YashGupta068/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YashGupta068/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
