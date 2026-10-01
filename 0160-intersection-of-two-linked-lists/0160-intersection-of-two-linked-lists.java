@@ -10,47 +10,45 @@
  * }
  */
 public class Solution {
-    public int length(ListNode head){
-        if(head == null){
-            return 0;
-        }
+
+    public int getLen(ListNode head){
         int count = 0;
-        while(head!=null){
+        while(head != null){
             count++;
             head = head.next;
         }
 
         return count;
     }
+
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if(headA == null || headB == null){
             return null;
         }
 
-        ListNode A = headA;
-        ListNode B = headB;
+        int countA = getLen(headA);
+        int countB = getLen(headB);
 
-        int lenA = length(headA);
-        int lenB = length(headB);
+        ListNode nodeA = headA;
+        ListNode nodeB = headB;
 
-        while(lenA>lenB){
-            A=A.next;
-            lenA--;
+        while(countA > countB){
+            countA--;
+            nodeA = nodeA.next;
         }
 
-        while(lenB>lenA){
-            B=B.next;
-            lenB--;
+        while(countA < countB){
+            countB--;
+            nodeB = nodeB.next;
         }
 
-        while (A != null && B != null) {
 
-            if (A == B) {
-                return A;
+        while(nodeA != null){
+            if(nodeA == nodeB){
+                return nodeA;
             }
-
-            A = A.next;
-            B = B.next;
+            nodeA = nodeA.next;
+            nodeB = nodeB.next;
         }
 
         return null;
@@ -58,3 +56,7 @@ public class Solution {
 
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
