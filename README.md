@@ -10,12 +10,14 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0160-intersection-of-two-linked-lists](https://github.com/YashGupta068/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/YashGupta068/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/YashGupta068/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0160-intersection-of-two-linked-lists](https://github.com/YashGupta068/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/YashGupta068/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/YashGupta068/LeetCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/YashGupta068/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/YashGupta068/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/YashGupta068/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +198,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0042-trapping-rain-water](https://github.com/YashGupta068/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/YashGupta068/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0232-implement-queue-using-stacks](https://github.com/YashGupta068/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/YashGupta068/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashGupta068/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
