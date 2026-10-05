@@ -11,12 +11,13 @@
 class Solution {
     public ListNode reverseList(ListNode head) {
         if(head == null){
-            return head;
+            return null;
         }
+
         ListNode prev = null;
         ListNode curr = head;
 
-        while(curr!=null){
+        while(curr!= null){
             ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
@@ -26,3 +27,7 @@ class Solution {
         return prev;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
