@@ -6,6 +6,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/YashGupta068/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/YashGupta068/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/YashGupta068/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/YashGupta068/LeetCode/tree/master/0203-remove-linked-list-elements) |
@@ -75,6 +76,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [0026-remove-duplicates-from-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/YashGupta068/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/YashGupta068/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/YashGupta068/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/YashGupta068/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashGupta068/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/YashGupta068/LeetCode/tree/master/0125-valid-palindrome) |
