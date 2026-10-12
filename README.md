@@ -70,6 +70,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [3046-split-the-array](https://github.com/YashGupta068/LeetCode/tree/master/3046-split-the-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashGupta068/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/YashGupta068/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3925-concatenate-array-with-reverse](https://github.com/YashGupta068/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/YashGupta068/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/YashGupta068/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashGupta068/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/YashGupta068/LeetCode/tree/master/3925-concatenate-array-with-reverse) |
 ## Stack
 |  |
 | ------- |
