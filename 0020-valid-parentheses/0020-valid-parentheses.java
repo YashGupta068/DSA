@@ -11,7 +11,7 @@ class Solution {
                 st.push(ch);
             }else if(ch == ')' || ch == '}' || ch == ']'){
                 if(st.isEmpty()){
-                    return true;
+                    return false;
                 }
 
                 char top = st.peek();
