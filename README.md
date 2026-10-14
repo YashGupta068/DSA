@@ -270,4 +270,8 @@ A collection of LeetCode & GFGs questions to ace the coding interview! - Created
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/YashGupta068/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/YashGupta068/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
